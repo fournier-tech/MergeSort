@@ -1,4 +1,4 @@
-﻿namespace InsertionSort {
+﻿namespace MergeSort {
     class Program {
 
         static void Main(string[] args) {
